@@ -1,0 +1,15 @@
+# LINK PENDEK - cukup simpan ini di HP
+
+Setelah push ke GitHub, buat 2 link pendek 1x di s.id (gratis):
+
+1. Link Windows:
+   Asli : https://raw.githubusercontent.com/asistbybn/agent-persistent/main/BOOTSTRAP_WINDOWS.bat
+   Pendek: https://s.id/agent-mulai-win
+   Pakai : curl -L -o mulai.bat https://s.id/agent-mulai-win && mulai.bat
+
+2. Link Linux:
+   Asli : https://raw.githubusercontent.com/asistbybn/agent-persistent/main/BOOTSTRAP_LINUX.sh
+   Pendek: https://s.id/agent-mulai-linux
+   Pakai : curl -sL https://s.id/agent-mulai-linux | bash
+
+Username GitHub: asistbybn (sudah diganti).
